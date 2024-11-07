@@ -1,4 +1,4 @@
-![Alt text](./122.jpg)
+![Alt text](./mount.jpg)
 
 # Mountain Named Entity Recognition (NER) using BERT
 This project implements a Named Entity Recognition (NER) model using the BERT architecture for recognizing mountain names in text. It utilizes the Hugging Face transformers library and PyTorch.
