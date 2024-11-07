@@ -77,7 +77,7 @@ python train_model.py
 ```
 This will train the model on your dataset and save the best model and tokenizer to the **./best_model and ./saved_mode2** directories.
 
-## Model loool like :
+## Model look like :
 ```python
 training_args = TrainingArguments(
     output_dir="./results",  # Directory for saving results
