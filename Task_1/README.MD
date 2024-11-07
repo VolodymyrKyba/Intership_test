@@ -61,10 +61,15 @@ The dataset consists of text sentences where mountain names are annotated with B
 
 Example:
 ```
-
-Himalayas B-Mountain
-Mount I-Mountain
-Khushkak I-Mountain
+Many	O
+tourists	O
+visit	O
+Pic	B-Mountain
+de	I-Mountain
+les	I-Mountain
+Abelletes	I-Mountain
+every	O
+year.	O
 ...
 ```
 ## Training the Model
