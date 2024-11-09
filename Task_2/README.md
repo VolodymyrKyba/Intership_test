@@ -72,11 +72,11 @@ img_1 = jp2_to_png(fp_in,fp_out,prefix)
 
 <p align="center">
   <figure style="display:inline-block; margin-right: 20px;">
-  <img src="./project_files/to_prepare.png" alt="Alt data" width="250"/>
+  <img src="./august.png" alt="Alt data" width="250"/>
   <figcaption style="text-align: center;font-size: 20px;">To prepare</figcaption>
 </figure>
   <figure style="display:inline-block; margin-right: 20px;">
-  <img src="./2024_november_png/november.png" alt="Alt data" width="250"/>
+  <img src="./november.png" alt="Alt data" width="250"/>
   <figcaption style="text-align: center;font-size: 20px;">After prepare</figcaption>
 </figure>
 </p>
@@ -115,7 +115,7 @@ cv2.imwrite('output/output_matches.png', img_matches)
 
 
 ## This will output an image showing the matched keypoints with lines connecting them, which can be saved and viewed.
-![Alt data](./project_files/output_matches.png)
+![Alt data](./output_matches.png)
 ## Notes
 - The model uses SIFT for feature extraction and BFMatcher to find the best matches between keypoints.
 - The matching process is based on finding similar keypoints in both images, even if they have different orientations or are captured under different conditions (e.g., different seasons).
