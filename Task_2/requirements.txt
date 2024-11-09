@@ -1,0 +1,7 @@
+opencv-python-headless>=4.5.5  # For image processing with OpenCV without GUI dependencies
+matplotlib>=3.3.0              # For displaying images and plots
+pickle5                        # To handle serialization of data (optional, if pickle5 is needed)
+rasterio                       # For reading geospatial raster data files
+numpy>=1.19.2                  # For array manipulation
+torch>=1.8.0                   # Needed if you're using deep learning-based features like LoFTR
+kornia>=0.5.0                  # For advanced feature matching (if used with LoFTR)
