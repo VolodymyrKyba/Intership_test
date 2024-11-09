@@ -72,11 +72,11 @@ img_1 = jp2_to_png(fp_in,fp_out,prefix)
 
 <p align="center">
   <figure style="display:inline-block; margin-right: 20px;">
-  <img src="./august.png" alt="Alt data" width="250"/>
+  <img src="./to_prepare.png" alt="Alt data" width="300"/>
   <figcaption style="text-align: center;font-size: 20px;">To prepare</figcaption>
 </figure>
   <figure style="display:inline-block; margin-right: 20px;">
-  <img src="./november.png" alt="Alt data" width="250"/>
+  <img src="./november.png" alt="Alt data" width="300"/>
   <figcaption style="text-align: center;font-size: 20px;">After prepare</figcaption>
 </figure>
 </p>
